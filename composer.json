@@ -1,0 +1,14 @@
+{
+    "name": "bomoko/bigbuck",
+    "description": "Simply stores a copy of Big Buck Bunny for testing caches",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Blaize Kaye",
+            "email": "blaize.kaye@amazee.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
